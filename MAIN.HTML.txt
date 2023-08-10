@@ -1,0 +1,12 @@
+<HTML>
+<BODY BGCOLOR="PINK">
+<MARQUEE><H1><FONT COLOR="PURPLE">WELCOME</FONT></H1></MARQUEE>
+<Hr>
+<a href="picture.html">picture</a>
+<BR>
+<a href="video.html">video</a>
+<BR>
+<a href="music.html">music</a>
+<BR>
+</BODY>
+</HTML>
